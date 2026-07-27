@@ -1,20 +1,43 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+# 🇯🇵 NihonTamil (நிஹோன் தமிழ்)
+**Learn Japanese through Tamil with AI-powered interactive lessons, Kanji practice, and flashcards.**
+
+[View Project in Google AI Studio](https://ai.studio/apps/3a4ab70e-5ace-45f4-99f4-f2b397ea5bf2)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📖 About The Project
 
-View your app in AI Studio: https://ai.studio/apps/3a4ab70e-5ace-45f4-99f4-f2b397ea5bf2
+**NihonTamil** is a web application designed to help Tamil speakers learn Japanese smoothly. Built with **TypeScript** and **Vite**, it features:
+* 🎓 **Structured Lessons:** Japanese vocabulary and grammar with Tamil transliterations and audio pronunciations.
+* ✍️ **Kanji & Kana Guides:** Stroke orders, pronunciations, and visual cards.
+* 📱 **Shorts / Flashcard Mode:** Swipeable micro-learning cards for fast vocabulary building.
+* 📊 **Progress Tracking:** Interactive UI designed for mobile and desktop screens.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠️ Built With
 
+* **Frontend:** TypeScript, Vite, HTML5, CSS3
+* **AI Assistance:** Google AI Studio / Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+### Prerequisites
+
+Make sure you have **Node.js** installed on your system.
+* [Download Node.js](https://nodejs.org/)
+
+### Local Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   cd YOUR-REPO-NAME
