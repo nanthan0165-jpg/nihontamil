@@ -25,19 +25,3 @@
 * **AI Assistance:** Google AI Studio / Gemini API
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to run the project locally on your machine.
-
-### Prerequisites
-
-Make sure you have **Node.js** installed on your system.
-* [Download Node.js](https://nodejs.org/)
-
-### Local Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-   cd YOUR-REPO-NAME
