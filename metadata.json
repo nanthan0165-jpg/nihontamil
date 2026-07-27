@@ -1,0 +1,8 @@
+{
+  "name": "NihonTamil",
+  "description": "Master Japanese through Tamil. An immersive, YouTube-style learning platform featuring JLPT N5-N1 lessons, AI-powered pronunciation, and interactive cultural feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
