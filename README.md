@@ -3,8 +3,6 @@
 # 🇯🇵 NihonTamil (நிஹோன் தமிழ்)
 **Learn Japanese through Tamil with AI-powered interactive lessons, Kanji practice, and flashcards.**
 
-[View Project in Google AI Studio](https://ai.studio/apps/3a4ab70e-5ace-45f4-99f4-f2b397ea5bf2)
-
 </div>
 
 ---
